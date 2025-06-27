@@ -107,7 +107,7 @@ You can also add flights directly through the website after logging in as an ope
 ### Screenshots
 
 ![Home Page](https://github.com/71Subhash05/Flight_Finder/blob/main/ProjectFiles/client/public/media/Home.png)
-![Booking Page](.client/public/media/Bookings.png)
+![Booking Page](https://github.com/71Subhash05/Flight_Finder/blob/main/ProjectFiles/client/public/media/Bookings.png)
 
 ### Demo Video
 
