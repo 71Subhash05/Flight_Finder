@@ -111,7 +111,7 @@ You can also add flights directly through the website after logging in as an ope
 
 ### Demo Video
 
-[![Watch the demo](Video%20demo/FlightFinder%20Video.mp4)
+[![Watch the demo](https://github.com/71Subhash05/Flight_Finder/blob/main/Video%20Demo/FlightFinder%20Video.mp4)
 
 ---
 
