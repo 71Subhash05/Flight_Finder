@@ -112,7 +112,6 @@ You can also add flights directly through the website after logging in as an ope
 ### Demo Video
 
 [![Watch the demo(Github Link)](https://github.com/71Subhash05/Flight_Finder/blob/main/VideoDemo/FlightFinder%20Video.mp4)
-[![Watch the demo(Drive Link)](https://drive.google.com/file/d/12Cv2Dl2nm13g2FLcDRqeLVsp9jtFFEy2/view?usp=drive_link)
 
 ---
 
