@@ -1,0 +1,42 @@
+.navbar {
+    height: 10vh;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 10;
+    background: linear-gradient(to right, #2c2c2c, #1f1f1f); /* Dark grey gradient */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 3%;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.25);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Brand title */
+.navbar h3 {
+    color: #f1f1f1;
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin: 0;
+}
+
+/* Navigation links */
+.nav-options {
+    display: flex;
+    gap: 25px;
+}
+
+.nav-options p {
+    margin: 0;
+    color: #d1d5db;
+    font-size: 1rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.nav-options p:hover {
+    color: #ffffff;
+    transform: scale(1.05);
+}

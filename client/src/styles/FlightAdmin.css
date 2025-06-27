@@ -1,0 +1,33 @@
+.flightAdmin-page {
+    padding-top: 15vh;
+    height: 100vh;
+    background: linear-gradient(to right, #f0f4f8, #e2eafc); /* Soft gradient */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Approval box */
+.notApproved-box {
+    width: 60%;
+    text-align: center;
+    margin: 30vh auto;
+    background-color: #ffffffcc; /* Frosted white */
+    padding: 4vh 4vw;
+    border-radius: 1rem;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.06);
+    backdrop-filter: blur(10px);
+}
+
+/* Heading inside approval box */
+.notApproved-box h3 {
+    color: #dc2626; /* Strong red */
+    font-size: 1.6rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+/* Paragraph inside approval box */
+.notApproved-box p {
+    color: #475569; /* Slate gray */
+    font-size: 1rem;
+    line-height: 1.5;
+}
