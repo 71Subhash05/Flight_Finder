@@ -1,4 +1,4 @@
-# Flight Booking App
+# Flight Booking Application
 
 This project is a full-stack flight booking application with a React frontend and a Node.js/Express/MongoDB backend.
 
