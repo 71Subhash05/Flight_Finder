@@ -1,0 +1,108 @@
+.BookFlightPage {
+    width: 100%;
+    height: fit-content;
+    padding-top: 15vh;
+    padding-bottom: 5vh;
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(to right, #f0f4f8, #e2eafc); /* soft gradient */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Main Booking Form Container */
+.BookingFlightPageContainer {
+    width: 44%;
+    background-color: #ffffffcc; /* translucent white */
+    padding: 2vh 2%;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+    border-radius: 1rem;
+    backdrop-filter: blur(10px);
+}
+
+/* Heading */
+.BookingFlightPageContainer h2 {
+    margin: 0;
+    margin-bottom: 5vh;
+    text-align: center;
+    color: #1e3a8a; /* indigo */
+    font-size: 1.8rem;
+    font-weight: 600;
+}
+
+/* Paragraphs inside form */
+.BookingFlightPageContainer p {
+    margin: 0;
+    margin-bottom: 5px;
+    color: #334155; /* dark slate */
+    font-size: 0.95rem;
+}
+
+.BookingFlightPageContainer p b {
+    font-weight: 600;
+    color: #0f172a;
+}
+
+/* Grid structure for span */
+.BookingFlightPageContainer span {
+    display: grid;
+    grid-template-columns: 64% 33%;
+    gap: 3%;
+}
+
+/* Grid for triple inputs */
+.BookingFlightPageContainer .span3 {
+    display: grid;
+    grid-template-columns: 31.3% 31.3% 31.3%;
+    gap: 3%;
+}
+
+/* Button styling */
+.BookingFlightPageContainer button {
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 25px;
+    padding: 10px;
+    background-color: #2563eb;
+    color: white;
+    border: none;
+    border-radius: 0.5rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.BookingFlightPageContainer button:hover {
+    background-color: #1e40af;
+}
+
+/* Small list items */
+.BookingFlightPageContainer li {
+    font-size: 0.85rem;
+    color: #475569;
+}
+
+/* Passenger section title */
+.new-passenger h4 {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #1e40af;
+    margin-top: 2vh;
+}
+
+/* Input grid for passenger info */
+.new-passenger-inputs {
+    display: grid;
+    grid-template-columns: 67% 30%;
+    gap: 3%;
+}
+
+/* Select dropdown spacing */
+.new-passenger-inputs select {
+    padding-left: 12px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 0.4rem;
+    border: 1px solid #cbd5e1;
+    background-color: #f1f5f9;
+    color: #0f172a;
+}
