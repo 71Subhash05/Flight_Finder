@@ -97,7 +97,16 @@ This project demonstrates the integration of a modern frontend with a RESTful ba
 
 ---
 
-## 9. References
+## 9. Team Members
+
+- **M. Subhash** – Full Stack Developer
+- **S. Madhu Pavan** – Frontend Developer
+- **T. Lakshmi Sravani** – Backend Developer
+- **S. Srinija** – Database Administrator
+
+---
+
+## 10. References
 
 - [React Documentation](https://reactjs.org/)
 - [Express Documentation](https://expressjs.com/)
